@@ -1,1 +1,1 @@
-# Food-Name-Entity-Recognition
+# Food Name Entity Recognition 
