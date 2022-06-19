@@ -9,9 +9,8 @@ Falafel is a dish originating from the Levant.
 Baba ghannouj is a popular appetizer made from eggplant and tahini.
 Knafeh is a buttery, crunchy dessert.
 Red Wine is for gentleman.
-Girls love strawberries.............................
-....................................................
-...................Pumpkin pie is a common dish for thanks giving dinner.
+Girls love strawberries.
+Pumpkin pie is a common dish for thanks giving dinner.
 Don't wanna celebrate Christmas without turkey.
 Ice Ice pops are must after dinner.
 Lacchi is an Asian radiational food.
@@ -47,8 +46,4 @@ Prepare this dataset for train the model using 'NER Annotator'. After preprocess
  ["There's no cinema night without pop corn.\r",
   {'entities': [[32, 40, 'FOOD']]}],
  ['Kababs were born on middle east.\r', {'entities': [[0, 6, 'FOOD']]}]]
- 
- 
- 
- 
  
