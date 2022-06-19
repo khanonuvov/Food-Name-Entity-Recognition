@@ -1,4 +1,5 @@
 # Food Name Entity Recognition 
+Project Link: https://khanonuvov.github.io/Food-Name-Entity-Recognition/
 Download the 'NER Annotator' from this link https://github.com/tecoholic/ner-annotator. It's free software to preprocessing your custom NER data and feed to Spacy model. It's very simple to preprocess your data. Here is given some step to preprocess:
 Suppose my Food dataset in text file like,
 
@@ -47,6 +48,3 @@ Prepare this dataset for train the model using 'NER Annotator'. After preprocess
   {'entities': [[32, 40, 'FOOD']]}],
  ['Kababs were born on middle east.\r', {'entities': [[0, 6, 'FOOD']]}]]
  
- 
- 
- # Project Link: https://khanonuvov.github.io/Food-Name-Entity-Recognition/
