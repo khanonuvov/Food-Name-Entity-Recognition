@@ -47,3 +47,6 @@ Prepare this dataset for train the model using 'NER Annotator'. After preprocess
   {'entities': [[32, 40, 'FOOD']]}],
  ['Kababs were born on middle east.\r', {'entities': [[0, 6, 'FOOD']]}]]
  
+ 
+ 
+ # Project Link: https://khanonuvov.github.io/Food-Name-Entity-Recognition/
